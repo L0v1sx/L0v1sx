@@ -19,7 +19,7 @@ Foco em Back-End e Segurança da Informação
 ## 🛠️ Tecnologias que estou estudando
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,redes,git,github,linux" />
 </p>
 
 ---
