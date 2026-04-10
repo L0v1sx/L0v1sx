@@ -24,15 +24,6 @@ Foco em Back-End e Segurança da Informação
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=L0v1sx&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0v1sx&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Objetivo
 
 Construir uma base sólida em desenvolvimento Back-End e futuramente atuar na área de Segurança da Informação.
