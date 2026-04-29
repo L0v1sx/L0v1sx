@@ -20,8 +20,6 @@ Foco em Back-End e Segurança da Informação
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,mysql,git,github,linux,docker" />
-<img src="https://sectools.org/logos/nmap-80x80.png" width="80">
-<img src="https://seclists.org/images/wireshark-logo.png" width="80"><img src="https://owasp.org/www-project-branding/assets/images/logo.png" width="80">
 </p>
 
 ---
