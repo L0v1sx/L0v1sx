@@ -22,12 +22,6 @@ Foco em Back-End e Segurança da Informação
   <img src="https://skillicons.dev/icons?i=java,mysql,git,github,linux,docker" />
 </p>
 
-## 🔐 Cybersecurity Tools
-
-<img src="https://sectools.org/logos/nmap-80x80.png" width="60"/> 
-<img src="https://seclists.org/images/wireshark-logo.png" width="60"/> 
-<img src="https://owasp.org/www-project-branding/assets/images/logo.png" width="60"/>
-
 ---
 
 ## 🎯 Objetivo
