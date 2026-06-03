@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋 Eu sou Joyce</h1>
+<h1 align="center">Olá 👋 Eu sou a Joyce</h1>
 
 <p align="center">
 Estudante de Análise e Desenvolvimento de Sistemas <br>
