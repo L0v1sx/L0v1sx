@@ -21,6 +21,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco atual em **De
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Redes](https://img.shields.io/badge/Redes_&_Protocolos-00599C?style=for-the-badge&logo=connection&logoColor=white)
 
 ---
 ### 📚 Próximos Passos 
@@ -39,7 +40,5 @@ Consolidar meus conhecimentos técnicos como Desenvolvedora Back-End Java, crian
 
 ---
 
-### VISITE MEU SITE 
-https://l0v1sx.github.io/portfolio-j/
 
-✨ *Construindo o Back-End de hoje com os olhos no amanhã.* ✨
+ *Construindo o Back-End de hoje com os olhos no amanhã.*
